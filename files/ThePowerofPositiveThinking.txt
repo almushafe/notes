@@ -1,0 +1,12 @@
+ositive thinking can improve resilience and problem-solving. For example, when coding a small task, stay focused and keep it simple:
+
+Python Code:
+
+python
+Copy code
+def greet(name):
+    return f"Hello, {name}!"
+
+name = input("Enter name: ")
+print(greet(name))
+This shows how positivity and breaking tasks into steps can make problems easier to solve.
